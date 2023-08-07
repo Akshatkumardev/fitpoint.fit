@@ -1,0 +1,62 @@
+body{
+  font-family: Arial;
+}
+.thumbnail{
+  border-radius:15px ;
+}
+.video-preview{
+  width: 350px;
+  margin-right: 50px;
+  vertical-align: top;
+  line-height: 20px;
+}
+
+.video-grid{
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  row-gap: 30px;
+  column-gap: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+}
+
+.video-info{
+  width: 336px;
+}
+.title{
+  margin-top: 8px;
+  font-family: arial;
+  font-weight: bold ;
+  margin-bottom: 0px;
+}
+.view-date{
+  color: rgb(176, 176, 176);
+  font-size: 15px;
+}
+.viewdate{
+  margin-top: 10px;
+}
+
+.thumbnail-row{
+  position: relative;
+}
+
+.time{
+  background-color: rgba(0, 0, 0, 0.791);
+  color: white;
+  border-radius: 5px;
+  font-family: Arial;
+  font-size: 14px;
+  padding-left: 5px;
+  padding-right: 5px;
+  
+}
+.time-stamp{
+  position: absolute;
+  bottom: -3px;
+  right: 20px;
+}
+
+
+
