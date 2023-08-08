@@ -10,7 +10,7 @@ body{
   font-weight: bold;
   font-size: 50px;
   padding-top: 70px;
-  padding-left: 450px;
+  padding-left: 430px;
 
 }
 
@@ -40,6 +40,16 @@ body{
 .instagram img{
   height: 30px;
   margin-right: 4px;
+}
+
+
+
+.videos{
+  margin-left: -10px;
+}
+
+.instagram{
+  margin-right: 30px;
 }
 
 .instagram,
